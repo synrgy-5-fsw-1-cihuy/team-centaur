@@ -1,0 +1,41 @@
+.page {
+    height: 700px;
+}
+
+/* Left */
+.left-item {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    font-family: 'Helvetica';
+    font-style: normal;
+}
+
+#rectangle {
+    width: 120px;
+    height: 35px;
+    border-radius: 4px;
+    background: #CFD4ED;
+}
+
+.sign:active {
+    color: #E1FFEE;
+}
+
+/* Right */
+.right-frame {
+    background: blue;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    color: #DCD7C9;
+    margin-top: 5%;
+    margin-left: 21%;
+}
+
+.image {
+    position: relative;
+    float: right;
+}
