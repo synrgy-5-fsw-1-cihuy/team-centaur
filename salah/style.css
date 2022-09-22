@@ -278,3 +278,6 @@ nav ul li a{
     height: 40px;
     border-radius: 50%;
 }
+.carousel-item{
+    min-height: 280px;
+}
