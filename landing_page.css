@@ -1,0 +1,144 @@
+/* Navigation Bar */
+.nav-blue {
+    background: blue;
+    color: blue;
+    border-radius: 3px;
+}
+
+.navigation nav div {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.navigation nav div div ul li a {
+    color: #000;
+}
+
+.navigation nav div div ul li a:hover {
+    color: #ECDBBA;
+}
+
+.navigation nav div div ul li a:active {
+    color: #04293A;
+}
+
+/* Banner */
+.banner {
+    background: #F1F3FF;
+}
+
+.banner-content-text-title {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+}
+
+.banner-content-text-content {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.button-banner {
+    background: #7FB77E;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+    width: 160px;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+}
+
+.button-banner:hover {
+    background: #222831;
+    color: #FFD369;
+}
+
+.button-banner:active {
+    background: #FFD369;
+    color: #222831;
+}
+
+/* Our Services */
+.service {
+    background: #fff;
+}
+
+.listing {
+    list-style-image: url(./assets/img/Vector.png);
+}
+
+/* Why Us */
+.why-us {
+    background-color: #fff;
+    padding-bottom: 100px;
+}
+
+.card {
+    background: #F9D276;
+}
+
+.why-us div div p {
+    font-family: 'Helvetica';
+}
+
+/* Testimonial */
+
+/* CTA */
+
+.cta div{
+    height: 300px;
+    background: #0D28A6;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 50px;
+    border-radius: 13px;
+}
+
+.button-cta {
+    height: 35px;
+    width: 180px;
+    background: #FFD717;
+    color: #1B0044;
+    border-radius: 5px;
+}
+
+.cta-text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.button-cta:hover {
+    background: #FD7014;
+    color: #94F3E4;
+}
+
+.button-cta:active {
+    background: #94F3E4;
+    color: #FD7014;
+}
+
+/* FAQ */
+.faq {
+    background: #fff;
+}
+
+/* footer */
+.social-media img {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.navigator-footer ul li a:hover {
+    color: #fff;
+}
+
+.navigator-footer ul li a:active {
+    color: #46244C;
+}
