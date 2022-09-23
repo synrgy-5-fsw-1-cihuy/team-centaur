@@ -1,54 +1,20 @@
-.navbar {
-    padding: 8px 16px;
-    background-color: #FFFFFF;
+body{
+    background-color: #dfe2d2;
 }
-
-.navbar .navbar-brand {
-    margin-left: 100px;
-    font-size: 25px;
+.navbar-brand {
+    color: blue;
     font-weight: 700;
 }
 
-.navbar .navbar-nav {
-    padding-left: 600px;
+.jumbotron {
+    margin-top: 100px;
 }
 
-.navbar .navbar-nav .nav-item {
-    font-size: 16px;
-    font-weight: 400;
-    color: black;
-    margin-left: 25px;
-    padding: 8px;
+.faq {
+    margin: 16px;
 }
 
-.navbar .navbar-nav.ml-auto {
-    padding-left: 40px;
-}
-
-.navbar button {
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 8px 12px;
-    gap: 10px;
-    width: 140px;
-    height: 36px;
-    top: 377px;
-    background: #F59823;
-    border-radius: 20px;
-    margin-left: 100px;
-}
-
-.navbar button a {
-    width: 116px;
-    height: 20px;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 20px;
-    color: #FFFFFF;
-    flex: none;
-    flex-grow: 0;
-    text-decoration: none;
+.footer {
+    background-color: #e2dcd2;
+    padding-top: 16px;
 }
